@@ -1,0 +1,11 @@
+file_format: "1"
+id: ergo_nexus
+name: ErgoNexus
+type: shield
+url: https://github.com/foostan/crkbd/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - ergo_nexus_left
+  - ergo_nexus_right
